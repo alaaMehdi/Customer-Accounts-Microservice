@@ -1,6 +1,6 @@
 # DevOps Capstone Project
 
-![Build Status](https://github.com/<your-username>/<your-repo>/actions/workflows/<your-workflow-file>.yml/badge.svg)
+![Build Status](https://github.com/alaaMehdi/Customer-Accounts-Microservice/blob/main/.guthub/workflows/ci-build.yml/badge.svg)
 
 ## 📌 Project Overview
 This project is part of the IBM DevOps Capstone. It demonstrates the implementation of DevOps practices including Continuous Integration (CI), Continuous Delivery (CD), containerization, and automated deployment using modern tools.
