@@ -1,6 +1,5 @@
 # DevOps Capstone Project
-
-![Build Status](https://github.com/alaaMehdi/Customer-Accounts-Microservice/blob/main/.guthub/workflows/ci-build.yml/badge.svg)
+![Build Status](https://github.com/alaaMehdi/Customer-Accounts-Microservice/actions/workflows/ci-build.yaml/badge.svg)
 
 ## 📌 Project Overview
 This project is part of the IBM DevOps Capstone. It demonstrates the implementation of DevOps practices including Continuous Integration (CI), Continuous Delivery (CD), containerization, and automated deployment using modern tools.
@@ -40,5 +39,5 @@ This project is part of the IBM DevOps Capstone. It demonstrates the implementat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/alaaMehdi/Customer-Accounts-Microservice.git
+cd Customer-Accounts-Microservice
